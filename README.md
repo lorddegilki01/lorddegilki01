@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lorddegilki01
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C#, Unity
+- 🌱 2Years unity develop C#, Unity
+- C# , Python , HTML , Php , Mysql
 
 - 📫 How to reach me lorddegilkigg@gmail.com
 - 😄 Pronouns: ...
