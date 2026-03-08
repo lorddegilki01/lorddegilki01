@@ -2,6 +2,12 @@
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
+</div>
+
+###
+
 <h3 align="left">Hello, my name is Efe, I am 18 years old and I live in Cyprus. <br><br>I have worked on many systems:<br>⤹ Discord bot<br>⤹ Unity 2D development<br>⤹ Website development<br>⤹ Application development (Mobile/Desktop)<br>⤹ I write infrastructure and clean code in a fully professional manner.<br>⤹ Developing systems from scratch<br>⤹ Of course, I have other skills as well.<br><br>I have 2 years of Unity experience and am actively working on projects.<br>I am proficient in many programming languages.</h3>
 
 ###
@@ -111,19 +117,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lorddegilki01&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lorddegilki01.lorddegilki01&left_color=black&right_color=black"  />
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lorddegilki01.lorddegilki01&left_color=black&right_color=black"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
 </div>
 
 ###
