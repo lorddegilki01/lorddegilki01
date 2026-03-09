@@ -109,14 +109,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/4dj8mboc04krypv4yygy8rdb4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=4dj8mboc04krypv4yygy8rdb4&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lorddegilki01.lorddegilki01&left_color=black&right_color=black"  />
 </div>
 
